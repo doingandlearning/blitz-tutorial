@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200925091249-initial-migration
+20200925092157-init-db
+20200925100335-init-db
